@@ -1,0 +1,5 @@
+{
+  "name": "PRECEPTOR",
+  "description": "A platform to aggregate a researcher's publications, generate academic CVs, and connect with peers. Features include importing publications, managing profile data, and a portal for academic advertisements.",
+  "requestFramePermissions": []
+}
